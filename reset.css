@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+
+    i{
+        background-color: rgba(128, 128, 128, 0.863);
+        border-radius: 30px;
+        color: azure;
+        width: 25px;
+        height: 25px;
+        padding: 7px;
+        margin: 0 auto;
+        font-size: 13px !important;
+    }
+    i:hover{
+        cursor: pointer;
+        background-color: rgb(219, 88, 41)
+    }
+    
+    ul{
+        list-style-type: none;
+    }
+    a{
+        text-decoration: none;
+        color: black;
+    
+    }
+    .active{
+        color: rgb(219, 88, 41)
+    }
+    .number{
+        font-size: 30px;
+        font-weight: 700;
+        display: flex;
+    }
+    .best-deal{
+        background-color: rgb(240, 237, 234);
+    }
+    #active{
+        background-color: rgb(219, 88, 41);
+        color: black;
+    }
+
