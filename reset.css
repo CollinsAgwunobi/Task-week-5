@@ -36,9 +36,15 @@
     }
     .best-deal{
         background-color: rgb(240, 237, 234);
+        
+        
     }
     #active{
         background-color: rgb(219, 88, 41);
         color: black;
+    }
+    .main-fourth{
+        width: 450px;
+        height: 450px;
     }
 
